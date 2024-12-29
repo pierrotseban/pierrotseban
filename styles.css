@@ -1,0 +1,25 @@
+p {
+    text-align: justify;
+    text-justify: inter-word;
+    width: 78%;
+    max-width: 710px;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .row {
+    display: flex;
+    max-width: 900px;
+  }
+
+  /* Create two equal columns that floats next to each other */
+  .piccolumn {
+    flex: auto;
+    padding: 10px;
+    padding-top: 50px;
+  }
+  .parcolumn {
+    flex:auto;
+    padding: 10px;
+    /* min-width: 300px; */
+  }
