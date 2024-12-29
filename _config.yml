@@ -1,0 +1,4 @@
+title: My Website
+description: A website with a blog powered by Jekyll
+theme: minima # GitHub Pages provides several themes
+baseurl: "" # Keep this empty for the main repository
