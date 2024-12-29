@@ -1,15 +1,10 @@
-layout: post
-title: "Un collectif pour tuer le libre-arbitre"
-date: 2024-12-28 23:59:59 -0000
-
 Nous pensons que notre culture est embourbée dans une confusion, dans un piège conceptuel, quelque chose qui nous empêche de penser correctement. Cette confusion, c’est l’idée de libre-arbitre. L’idée qu’il y a un problème du libre-arbitre. Nous voulons tuer le problème du libre-arbitre, pour de bon, qu’on ne se pose pas plus la question du libre-arbitre que l’on ne cherche à faire un mouvement perpétuel ou à purifier le plomb pour le changer en or[[1]](#_ftn1) : autant de projets mal conçus.
 
 Le libre-arbitre – en tout cas la version qu’on veut tuer – c’est quoi ? C’est le triangle [être libre-être responsable-échapper aux déterminisme].
 
-![image info](../pictures/triangle.png)
+![image info](../blog/pictures/triangle.png)
 
-C’est lier entre elles ces trois idées. C’est penser que le fait d’être libre, en sorte à être responsable et qu’on puisse nous imputer nos actes – notamment nous accuser ou nous féliciter – a quelque chose à voir avec le fait d’échapper aux déterminismes – qu’on aurait pu ne pas le faire, que d’autres font ou feraient autrement, que c’était pas fatal… Et donc, par exemple, que si on cherche à tout expliquer, comme en socio, on va tout excuser, on va faire disparaitre les raisons de punir et d’accuser – *et que ça prouve que la socio a des limites* ! Ou quand on pense que puisqu’il y a des exceptions à une généralisation sociologique ( *tous les gens qui ont grandi dans
-la misère deviennent sont pas criminels !* ) ça veut dire qu’on peut échapper au déterminisme.
+C’est lier entre elles ces trois idées. C’est penser que le fait d’être libre, en sorte à être responsable et qu’on puisse nous imputer nos actes – notamment nous accuser ou nous féliciter – a quelque chose à voir avec le fait d’échapper aux déterminismes – qu’on aurait pu ne pas le faire, que d’autres font ou feraient autrement, que c’était pas fatal… Et donc, par exemple, que si on cherche à tout expliquer, comme en socio, on va tout excuser, on va faire disparaitre les raisons de punir et d’accuser – *et que ça prouve que la socio a des limites* ! Ou quand on pense que puisqu’il y a des exceptions à une généralisation sociologique ( *tous les gens qui ont grandi dans la misère deviennent sont pas criminels !* ) ça veut dire qu’on peut échapper au déterminisme.
 
 Nous soutenons que cette idée, ces idées, communes, sont incohérentes. C’est-à-dire que si on les creuse, on arrive à des impasses, à des trucs qui n’ont plus de sens, et qu’on se sort généralement de ces impasses en haussant les épaules. Et nous soutenons que ces idées sont  *graves* , que ce n’est pas une question métaphysique subtile. L’embourbement conceptuel nous empêche d’aller au bout des raisonnements, il nous empêche de comprendre ce qu’il se passe, il fait accuser la sociologie, il rend la connaissance condamnable. Il nous fait croire que l’enfer est justifié, et que la culpabilité a un fondement métaphysique. Il faut en finir avec le libre-arbitre, tourner cette page civilisationnelle moisie.
 
