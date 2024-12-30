@@ -19,11 +19,11 @@ alkindi,Al-Kindi,Alkindius,,,,801,Koufa,,873,Bagdad,,M
 alfarabi,Al-Farabi,,,,,872,Turkestan,,950,Damas,,M
 avicenne,Avicenne,,Ibn Sina,,,980,c. Boukhara (Khorassan),,1037,Hamadan,,M
 anselme,Anselme de Cantorbéry,,,,,1033,Aoste,,1109,Cantorbéry,,M
-algazali,Al-Ghazâlî,Algazel,,,,1058,Tus (Khorassan),,1111,Tus (Khorassan),,M
+alghazali,Al-Ghazâlî,Algazel,,,,1058,Tus (Khorassan),,1111,Tus (Khorassan),,M
 abelard,Pierre Abélard,,,,,1079,c. Nantes,,1142,c. Chalon-sur-Saône,,M
 avempace,Avempace,,Ibn Bajja,,c.,1080,Saragosse,,1138,Fès,,M
 averroes,Averroès,,Ibn Rushd,Ibn Rochd de Cordoue,,1126,Cordoue,,1198,Marrakech,,M
-maimonide,Maïmonide,,Moïse Maïmonide,,,1138,Cordoue,,1204,Fostat,,M
+maimonide,Maïmonide,,Moïse Maïmonide,Rambam,,1138,Cordoue,,1204,Fostat,,M
 henridegand,Henri de Gand,,,,,1217,Gand,,1293,Tournai,,M
 thomas,Thomas d'Aquin,,,,,1224,c. Aquino,,1274,c. Priverno,,M
 dante,Dante Alighieri,,,,,1265,Florence,,1321,Kent,,M
@@ -55,7 +55,7 @@ rousseau,Jean-Jacques Rousseau,,,,,1712,Genève,,1778,Oise,,M
 diderot,Denis Diderot,,,,,1713,Haute-Marne,,1784,Paris,,M
 condillac,Étienne Bonnot de Condillac,,,,,1714,Grenoble,,1780,Loiret,,M
 dalembert,Jean-Baptiste le Rond d’Alembert,,,,,1717,Paris,,1783,Paris,,M
-smith,Adam Smith,,,,,1723,c. Édimbourg,,1790,Édimbourg,,M
+adamsmith,Adam Smith,,,,,1723,c. Édimbourg,,1790,Édimbourg,,M
 kant,Immanuel Kant,,,,,1724,Königsberg,,1804,Königsberg,,M
 burke,Edmund Burke,,,,,1729,Dublin,,1797,c. Londres,,M
 beccaria,Cesare Beccaria,,,,,1738,Milan,,1794,Milan,,M
